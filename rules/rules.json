@@ -1,4 +1,10 @@
 [
+    "^/Archives/Performances/* /events/past-events.html [R=301,L,NC]",
+    "^/Archives/Exhibitions/* /events/past-events.html [R=301,L,NC]",
+    "^/Archives/* /events/past-events.html [R=301,L,NC]",
+    "^/Contact-Us/* /contact/index.html [R=301,L,NC]",
+    "^/Get-Involved/* /index.html [R=301,L,NC]",
+    "^/Grant-Application/* /grants/index.html [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
